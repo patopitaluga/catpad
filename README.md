@@ -2,6 +2,10 @@
 
 ![Catpad](https://patopitaluga.github.io/catpad/catpad.jpg)
 
+The Catpad is my own button panel: a "hacked" numeric keypad designed for web developing like a boss. Is the coolest, laziest, most ridiculous way to type keyboard shortcuts.
+
+It uses AutoHotkey, a free, open-source custom scripting language aplication.
+
 ### Installation:
 Install https://autohotkey.com/ if necessary.
 Plug the Catpad™. Double click **catpad.ahk**.
@@ -16,3 +20,5 @@ Current setup:
 * Numpad 5: Search in all files
 * Numpad 6: Save file
 * Numpad 7: Close tab
+
+Currently it's only tested on Windows.
