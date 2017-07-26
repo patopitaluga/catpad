@@ -2,7 +2,7 @@
 
 ![Catpad](https://patopitaluga.github.io/catpad/catpad.jpg)
 
-The Catpad is my own button panel: a "hacked" numeric keypad designed for web developing like a boss. Is the coolest, laziest, most ridiculous way to type keyboard shortcuts.
+The Catpad is my own button panel: a "hacked" numeric keypad designed for web developing like a boss. It's the coolest, laziest, most ridiculous way to type keyboard shortcuts with a single key.
 
 It uses AutoHotkey, a free, open-source custom scripting language aplication.
 
