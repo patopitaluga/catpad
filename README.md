@@ -4,7 +4,7 @@
 
 The Catpad is my own button panel: a "hacked" numeric keypad designed for web developing like a boss. It's the coolest, laziest, most ridiculous way to type keyboard shortcuts with a single key.
 
-It uses AutoHotkey, a free, open-source custom scripting language aplication.
+It uses AutoHotkey, a free, open-source key remapping utility with a custom scripting language.
 
 ### Installation:
 Install https://autohotkey.com/ if necessary.
