@@ -20,5 +20,7 @@ Current setup:
 * Numpad 5: Search in all files
 * Numpad 6: Save file
 * Numpad 7: Close tab
+* Numpad 8: Undefined yet
+* Numpad 9: Instant Rickrolling
 
 Currently it's only tested on Windows.
